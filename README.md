@@ -21,3 +21,5 @@
 | `tax` | Entero (int) | Impuesto sobre el vehículo. |
 | `mpg` | Numérico (float) | Rendimiento en millas por galón. |
 | `engineSize` | Numérico (float) | Tamaño/cilindraje del motor en litros (ej. 2.0). |
+
+38023.5
